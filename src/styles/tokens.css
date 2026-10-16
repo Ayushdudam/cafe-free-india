@@ -1,0 +1,26 @@
+:root {
+  /* Color Tokens */
+  --espresso-900: #14100f;   /* Deepest background, overlay base */
+  --espresso-800: #1d1d23;   /* Main dark surface */
+  --espresso-700: #2a211c;   /* Cards on dark */
+  --roast-600:    #3b2314;   /* Dark brown text on light, strokes */
+  --caramel-500:  #c68b59;   /* Secondary warm accent */
+  --amber-500:    #db9423;   /* Primary gold */
+  --amber-600:    #ed7a00;   /* Hot accent, hover, CTA glow */
+  --cream-100:    #faf6f0;   /* Main light background, text on dark */
+  --milk-50:      #ffffff;   /* Pure white */
+  --leaf-500:     #5c7f4b;   /* Vegetarian indicator and natural accents */
+  --chili-500:    #c8453b;   /* Non-veg indicator, rare alerts */
+  --glass-bg:     rgba(250, 246, 240, 0.08);
+  --glass-border: rgba(250, 246, 240, 0.18);
+  --overlay-video: rgba(20, 16, 15, 0.65);
+
+  /* Gradients */
+  --grad-gold: linear-gradient(135deg, #db9423 0%, #ed7a00 100%);
+  --grad-espresso: linear-gradient(180deg, #1d1d23 0%, #14100f 100%);
+  --grad-vignette: radial-gradient(ellipse at center, transparent 40%, rgba(20, 16, 15, 0.85) 100%);
+
+  /* Shadows */
+  --shadow-warm: 0 20px 60px rgba(20, 16, 15, 0.35);
+  --shadow-gold-glow: 0 0 40px rgba(219, 148, 35, 0.35);
+}

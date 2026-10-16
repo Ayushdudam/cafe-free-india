@@ -1,0 +1,524 @@
+[
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 17,
+    "keyword": "98200",
+    "text": "| `PHONE` | `\"+91 98200 12345\"` | | [ ] Pending |"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 17,
+    "keyword": "12345",
+    "text": "| `PHONE` | `\"+91 98200 12345\"` | | [ ] Pending |"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 18,
+    "keyword": "98200",
+    "text": "| `WHATSAPP` | `\"+91 98200 12345\"` | | [ ] Pending |"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 18,
+    "keyword": "12345",
+    "text": "| `WHATSAPP` | `\"+91 98200 12345\"` | | [ ] Pending |"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 43,
+    "keyword": "Mumbai",
+    "text": "1. **Outlet 1 (Flagship / Bandra, Mumbai):**"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 43,
+    "keyword": "Bandra",
+    "text": "1. **Outlet 1 (Flagship / Bandra, Mumbai):**"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 46,
+    "keyword": "98200",
+    "text": "- Phone: `+91 98200 12345`"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 46,
+    "keyword": "12345",
+    "text": "- Phone: `+91 98200 12345`"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 47,
+    "keyword": "maps.google.com",
+    "text": "- Google Maps Coordinate/CID Link: `https://maps.google.com/?cid=...`"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 48,
+    "keyword": "Bengaluru",
+    "text": "2. **Outlet 2 (Indiranagar, Bengaluru):**"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 51,
+    "keyword": "98200",
+    "text": "- Phone: `+91 98200 12346`"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 53,
+    "keyword": "Delhi",
+    "text": "3. **Outlet 3 (Connaught Place, New Delhi):**"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 56,
+    "keyword": "98200",
+    "text": "- Phone: `+91 98200 12347`"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 58,
+    "keyword": "Pune",
+    "text": "4. **Outlet 4 (Koregaon Park, Pune):**"
+  },
+  {
+    "file": "docs\\content-checklist.md",
+    "line": 61,
+    "keyword": "98200",
+    "text": "- Phone: `+91 98200 12348`"
+  },
+  {
+    "file": "scripts\\resolve-maps.mjs",
+    "line": 3,
+    "keyword": "maps.app.goo.gl",
+    "text": "const url = 'https://maps.app.goo.gl/eMJdPx2m1eb8D5cV8?g_st=ic';"
+  },
+  {
+    "file": "src\\app\\franchise\\page.tsx",
+    "line": 16,
+    "keyword": "Mumbai",
+    "text": "targetCity: \"Mumbai\","
+  },
+  {
+    "file": "src\\app\\franchise\\page.tsx",
+    "line": 146,
+    "keyword": "Joshi",
+    "text": "placeholder=\"e.g. Vikram Joshi\""
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 34,
+    "keyword": "Mumbai",
+    "text": "\"Experience slow-roasted artisanal coffee, fresh European bakes, and vibrant celebration spaces across Mumbai, Bengaluru, Delhi, and Pune.\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 34,
+    "keyword": "Bengaluru",
+    "text": "\"Experience slow-roasted artisanal coffee, fresh European bakes, and vibrant celebration spaces across Mumbai, Bengaluru, Delhi, and Pune.\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 34,
+    "keyword": "Delhi",
+    "text": "\"Experience slow-roasted artisanal coffee, fresh European bakes, and vibrant celebration spaces across Mumbai, Bengaluru, Delhi, and Pune.\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 34,
+    "keyword": "Pune",
+    "text": "\"Experience slow-roasted artisanal coffee, fresh European bakes, and vibrant celebration spaces across Mumbai, Bengaluru, Delhi, and Pune.\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 42,
+    "keyword": "Bandra",
+    "text": "\"Bandra cafe\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 85,
+    "keyword": "Waterfield",
+    "text": "streetAddress: \"Waterfield Road, Bandra West\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 85,
+    "keyword": "Bandra",
+    "text": "streetAddress: \"Waterfield Road, Bandra West\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 86,
+    "keyword": "Mumbai",
+    "text": "addressLocality: \"Mumbai\","
+  },
+  {
+    "file": "src\\app\\layout.tsx",
+    "line": 88,
+    "keyword": "400050",
+    "text": "postalCode: \"400050\","
+  },
+  {
+    "file": "src\\app\\outlets\\page.tsx",
+    "line": 22,
+    "keyword": "Mumbai",
+    "text": "answer: \"Valet parking or dedicated cafe parking is available at our flagship Bandra (Mumbai) and Indiranagar (Bengaluru) outlets. For Connaught Place and Pune, designated street parking and nearby commercial parking plazas are within 100 meters walking distance.\","
+  },
+  {
+    "file": "src\\app\\outlets\\page.tsx",
+    "line": 22,
+    "keyword": "Bandra",
+    "text": "answer: \"Valet parking or dedicated cafe parking is available at our flagship Bandra (Mumbai) and Indiranagar (Bengaluru) outlets. For Connaught Place and Pune, designated street parking and nearby commercial parking plazas are within 100 meters walking distance.\","
+  },
+  {
+    "file": "src\\app\\outlets\\page.tsx",
+    "line": 22,
+    "keyword": "Bengaluru",
+    "text": "answer: \"Valet parking or dedicated cafe parking is available at our flagship Bandra (Mumbai) and Indiranagar (Bengaluru) outlets. For Connaught Place and Pune, designated street parking and nearby commercial parking plazas are within 100 meters walking distance.\","
+  },
+  {
+    "file": "src\\app\\outlets\\page.tsx",
+    "line": 22,
+    "keyword": "Pune",
+    "text": "answer: \"Valet parking or dedicated cafe parking is available at our flagship Bandra (Mumbai) and Indiranagar (Bengaluru) outlets. For Connaught Place and Pune, designated street parking and nearby commercial parking plazas are within 100 meters walking distance.\","
+  },
+  {
+    "file": "src\\components\\hero\\HeroHeading.tsx",
+    "line": 18,
+    "keyword": "Bandra",
+    "text": "// Flagship Bandra outlet hours"
+  },
+  {
+    "file": "src\\components\\sections\\Celebrations.tsx",
+    "line": 227,
+    "keyword": "98200",
+    "text": "placeholder=\"e.g. 9820012345\""
+  },
+  {
+    "file": "src\\components\\sections\\Celebrations.tsx",
+    "line": 227,
+    "keyword": "12345",
+    "text": "placeholder=\"e.g. 9820012345\""
+  },
+  {
+    "file": "src\\components\\sections\\ContactFooter.tsx",
+    "line": 89,
+    "keyword": "Mumbai",
+    "text": "<span>Flagship: Waterfield Road, Bandra West, Mumbai 400050</span>"
+  },
+  {
+    "file": "src\\components\\sections\\ContactFooter.tsx",
+    "line": 89,
+    "keyword": "400050",
+    "text": "<span>Flagship: Waterfield Road, Bandra West, Mumbai 400050</span>"
+  },
+  {
+    "file": "src\\components\\sections\\ContactFooter.tsx",
+    "line": 89,
+    "keyword": "Waterfield",
+    "text": "<span>Flagship: Waterfield Road, Bandra West, Mumbai 400050</span>"
+  },
+  {
+    "file": "src\\components\\sections\\ContactFooter.tsx",
+    "line": 89,
+    "keyword": "Bandra",
+    "text": "<span>Flagship: Waterfield Road, Bandra West, Mumbai 400050</span>"
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 58,
+    "keyword": "Mumbai",
+    "text": "subtitle=\"Discover your neighborhood sanctuary across Mumbai, Bengaluru, Delhi, and Pune.\""
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 58,
+    "keyword": "Bengaluru",
+    "text": "subtitle=\"Discover your neighborhood sanctuary across Mumbai, Bengaluru, Delhi, and Pune.\""
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 58,
+    "keyword": "Delhi",
+    "text": "subtitle=\"Discover your neighborhood sanctuary across Mumbai, Bengaluru, Delhi, and Pune.\""
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 58,
+    "keyword": "Pune",
+    "text": "subtitle=\"Discover your neighborhood sanctuary across Mumbai, Bengaluru, Delhi, and Pune.\""
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 71,
+    "keyword": "Mumbai",
+    "text": "placeholder=\"Search by city (Mumbai, Bengaluru, Delhi, Pune)...\""
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 71,
+    "keyword": "Bengaluru",
+    "text": "placeholder=\"Search by city (Mumbai, Bengaluru, Delhi, Pune)...\""
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 71,
+    "keyword": "Delhi",
+    "text": "placeholder=\"Search by city (Mumbai, Bengaluru, Delhi, Pune)...\""
+  },
+  {
+    "file": "src\\components\\sections\\Outlets.tsx",
+    "line": 71,
+    "keyword": "Pune",
+    "text": "placeholder=\"Search by city (Mumbai, Bengaluru, Delhi, Pune)...\""
+  },
+  {
+    "file": "src\\components\\ui\\Header.tsx",
+    "line": 222,
+    "keyword": "maps.google.com",
+    "text": "href=\"https://maps.google.com/?q=Cafe+Free+India\""
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 10,
+    "keyword": "Mumbai",
+    "text": "id: \"bandra-mumbai\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 10,
+    "keyword": "Bandra",
+    "text": "id: \"bandra-mumbai\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 11,
+    "keyword": "Bandra",
+    "text": "name: \"Bandra Flagship Cafe\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 12,
+    "keyword": "Mumbai",
+    "text": "city: \"Mumbai\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 13,
+    "keyword": "Mumbai",
+    "text": "address: \"Waterfield Road, Bandra West, Mumbai, Maharashtra 400050\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 13,
+    "keyword": "400050",
+    "text": "address: \"Waterfield Road, Bandra West, Mumbai, Maharashtra 400050\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 13,
+    "keyword": "Waterfield",
+    "text": "address: \"Waterfield Road, Bandra West, Mumbai, Maharashtra 400050\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 13,
+    "keyword": "Bandra",
+    "text": "address: \"Waterfield Road, Bandra West, Mumbai, Maharashtra 400050\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 14,
+    "keyword": "98200",
+    "text": "phone: \"+91 98200 12345\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 14,
+    "keyword": "12345",
+    "text": "phone: \"+91 98200 12345\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 17,
+    "keyword": "Mumbai",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Bandra+West+Mumbai\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 17,
+    "keyword": "Bandra",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Bandra+West+Mumbai\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 17,
+    "keyword": "maps.google.com",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Bandra+West+Mumbai\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 24,
+    "keyword": "Bengaluru",
+    "text": "city: \"Bengaluru\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 25,
+    "keyword": "Bengaluru",
+    "text": "address: \"100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 26,
+    "keyword": "98200",
+    "text": "phone: \"+91 98200 12346\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 29,
+    "keyword": "Bengaluru",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Indiranagar+Bengaluru\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 29,
+    "keyword": "maps.google.com",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Indiranagar+Bengaluru\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 33,
+    "keyword": "Delhi",
+    "text": "id: \"cp-delhi\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 35,
+    "keyword": "Delhi",
+    "text": "city: \"New Delhi\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 36,
+    "keyword": "Delhi",
+    "text": "address: \"Inner Circle, Block F, Connaught Place, New Delhi 110001\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 37,
+    "keyword": "98200",
+    "text": "phone: \"+91 98200 12347\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 40,
+    "keyword": "Delhi",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Connaught+Place+New+Delhi\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 40,
+    "keyword": "maps.google.com",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Connaught+Place+New+Delhi\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 44,
+    "keyword": "Pune",
+    "text": "id: \"kp-pune\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 46,
+    "keyword": "Pune",
+    "text": "city: \"Pune\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 47,
+    "keyword": "Pune",
+    "text": "address: \"Lane 7, Koregaon Park, Pune, Maharashtra 411001\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 48,
+    "keyword": "98200",
+    "text": "phone: \"+91 98200 12348\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 51,
+    "keyword": "Pune",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Koregaon+Park+Pune\","
+  },
+  {
+    "file": "src\\content\\outlets.ts",
+    "line": 51,
+    "keyword": "maps.google.com",
+    "text": "googleMapsUrl: \"https://maps.google.com/?q=Koregaon+Park+Pune\","
+  },
+  {
+    "file": "src\\content\\site.ts",
+    "line": 35,
+    "keyword": "98200",
+    "text": "PHONE: \"+91 98200 12345\","
+  },
+  {
+    "file": "src\\content\\site.ts",
+    "line": 35,
+    "keyword": "12345",
+    "text": "PHONE: \"+91 98200 12345\","
+  },
+  {
+    "file": "src\\content\\site.ts",
+    "line": 36,
+    "keyword": "98200",
+    "text": "WHATSAPP: \"919820012345\", // Clean format for wa.me link"
+  },
+  {
+    "file": "src\\content\\site.ts",
+    "line": 36,
+    "keyword": "12345",
+    "text": "WHATSAPP: \"919820012345\", // Clean format for wa.me link"
+  },
+  {
+    "file": "src\\content\\site.ts",
+    "line": 56,
+    "keyword": "12345",
+    "text": "googleReviews: \"https://maps.google.com/?cid=1234567890\","
+  },
+  {
+    "file": "src\\content\\site.ts",
+    "line": 56,
+    "keyword": "maps.google.com",
+    "text": "googleReviews: \"https://maps.google.com/?cid=1234567890\","
+  },
+  {
+    "file": "src\\content\\testimonials.ts",
+    "line": 22,
+    "keyword": "Mumbai",
+    "text": "city: \"Bandra, Mumbai\","
+  },
+  {
+    "file": "src\\content\\testimonials.ts",
+    "line": 22,
+    "keyword": "Bandra",
+    "text": "city: \"Bandra, Mumbai\","
+  },
+  {
+    "file": "src\\content\\testimonials.ts",
+    "line": 31,
+    "keyword": "Bengaluru",
+    "text": "city: \"Bengaluru\","
+  },
+  {
+    "file": "src\\content\\testimonials.ts",
+    "line": 40,
+    "keyword": "Delhi",
+    "text": "city: \"New Delhi\","
+  }
+]
